@@ -1,7 +1,7 @@
 name: hGear
 favicon: null
 layout_spectrum: 0.7823
-typography_spectrum: 0.56819
+typography_spectrum: 0.42483
 title: hGear Home Automation Inc.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#fdfa4f'
     - '#848685'
     - '#575757'
-  brandStrength: 0.5
+  brandStrength: 0.6875
   lightness: 0.625
-  saturation: 0.75
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
