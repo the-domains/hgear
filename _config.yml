@@ -1,0 +1,28 @@
+name: hGear
+favicon: null
+layout_spectrum: 0.6764481728896499
+typography_spectrum: 0.7133211332838982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6460576571989805
+  lightness: 0.6008006047923118
+  saturation: 0.5905001491773874
+  rhythmicContrast: 0.37178371637128294
+purpose: []
